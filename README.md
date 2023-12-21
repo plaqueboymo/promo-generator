@@ -1,3 +1,2 @@
-Promo generator created by me.
-
+# support
 if you need any support, add me on discord via @plaqueboymo 
