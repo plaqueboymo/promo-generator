@@ -1,1 +1,1 @@
-node .
+node index.js
