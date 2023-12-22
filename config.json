@@ -1,6 +1,6 @@
 {
     "settings" : {
-        "using_proxies" : true,
+        "using_proxies" : false,
         "version" : "v1.0.0a"
     }
 }
