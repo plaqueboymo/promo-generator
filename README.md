@@ -1,6 +1,7 @@
 # installation
 1. run the install.bat file, this will install all packages you need for this tool.
 2. once the windows closes (installation finished), run start.bat and everything should work
+
 if you need further support please look below.
 
 # support
